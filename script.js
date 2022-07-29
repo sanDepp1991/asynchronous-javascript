@@ -124,3 +124,5 @@ const getCountryData = function (country) {
 };
 
 getCountryData('france');
+
+// now we are learning handling-rejected-promises

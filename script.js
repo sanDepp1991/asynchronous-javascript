@@ -126,3 +126,9 @@ const getCountryData = function (country) {
 getCountryData('france');
 
 // now we are learning handling-rejected-promises
+
+// now handling-rejected-promises is already merged with master branch. lets nnow see if changes made in feature branch appear in master branch
+
+// now handling-rejected-promises is already merged with master branch. lets nnow see if changes made in feature branch appear in master branch
+
+// still appearing in master/handling-rejected-promises

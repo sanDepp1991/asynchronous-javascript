@@ -132,3 +132,5 @@ getCountryData('france');
 // now handling-rejected-promises is already merged with master branch. lets nnow see if changes made in feature branch appear in master branch
 
 // still appearing in master/handling-rejected-promises
+
+// if we commit changes in test-branch, the same changes not appearing in master
